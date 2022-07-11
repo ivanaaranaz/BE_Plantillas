@@ -1,0 +1,17 @@
+{
+  "name": "ejs",
+  "version": "1.0.0",
+  "description": "desafio 5 plantillas Ejs",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Marcos Peirone",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "express": "^4.17.2",
+    "pug": "^3.0.2"
+  }
+}
